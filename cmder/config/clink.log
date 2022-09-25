@@ -1,0 +1,52 @@
+1a90 start_logger              154 ---- 2022/09/25 21:54:59.388 -------------------------------------------------
+1a90 start_logger              160 Host process is 'cmd.exe' (pid 6800)
+1a90 start_logger              164 DLL path is 'C:\Users\Anas\Documents\Elzero Project\CSS\elzero_css\cmder\vendor\clink'
+1a90 start_logger              178 Windows version 10.0.19044 (x64)
+1a90 start_logger              181 Clink version 1.2.46.69fc92 (x64)
+1a90 hook_setter::hook_setter  156 >>> Started hook transaction.
+1a90 hook_setter::attach_iat   313 Attempting to hook SetEnvironmentVariableW in IAT for module 00007FF62B7F0000.
+1a90 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+1a90 find_iat                  121 Found import at 00007FF62B823860 (value is 00007FFF88BBC540).
+1a90 hook_setter::attach_iat   313 Attempting to hook WriteConsoleW in IAT for module 00007FF62B7F0000.
+1a90 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+1a90 find_iat                  121 Found import at 00007FF62B8234F8 (value is 00007FFF88B61630).
+1a90 hook_setter::attach_iat   313 Attempting to hook GetEnvironmentVariableW in IAT for module 00007FF62B7F0000.
+1a90 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+1a90 find_iat                  121 Found import at 00007FF62B823880 (value is 00007FFF88B7ABD0).
+1a90 hook_setter::commit       204 <<< Hook transaction committed.
+1a90 hook_setter::hook_setter  156 >>> Started hook transaction.
+1a90 hook_setter::detach_iat   356 Attempting to unhook 00007FFF3402ADF0 from GetEnvironmentVariableW in IAT for module 00007FF62B7F0000.
+1a90 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+1a90 find_iat                  121 Found import at 00007FF62B823880 (value is 00007FFF3402ADF0).
+1a90 hook_setter::commit       204 <<< Hook transaction committed.
+1a90 hook_setter::hook_setter  156 >>> Started hook transaction.
+1a90 hook_setter::attach_iat   313 Attempting to hook ReadConsoleW in IAT for module 00007FF62B7F0000.
+1a90 pe_info::iterate_imports  160 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+1a90 find_iat                  121 Found import at 00007FF62B8234E0 (value is 00007FFF88C52CE0).
+1a90 hook_setter::commit       204 <<< Hook transaction committed.
+1a90 win_screen_buffer::begin  227 Using native terminal support; found 'ConEmuHk64.dll'.
+1a90 history_db::initialise   1268 master bank ctag: |CTAG_1664045205_87515828_14712_0
+1a90 history_db::compact      1492 History:  66 active, 52 deleted
+1a90 history_db::compact      1492 History:  66 active, 53 deleted
+1a90 history_db::compact      1492 History:  67 active, 53 deleted
+1a90 history_db::compact      1492 History:  67 active, 54 deleted
+1a90 history_db::compact      1492 History:  67 active, 55 deleted
+1a90 history_db::compact      1492 History:  67 active, 56 deleted
+1a90 history_db::compact      1492 History:  67 active, 57 deleted
+1a90 history_db::compact      1492 History:  68 active, 57 deleted
+1a90 history_db::compact      1492 History:  69 active, 57 deleted
+1a90 history_db::compact      1492 History:  70 active, 57 deleted
+1a90 reset_handle              145 resetting mismatched stdout handle
+1a90 history_db::compact      1492 History:  71 active, 57 deleted
+1a90 history_db::compact      1492 History:  72 active, 57 deleted
+1a90 history_db::compact      1492 History:  73 active, 57 deleted
+1a90 history_db::compact      1492 History:  73 active, 58 deleted
+1a90 history_db::compact      1492 History:  74 active, 58 deleted
+1a90 history_db::compact      1492 History:  75 active, 58 deleted
+1a90 history_db::compact      1492 History:  75 active, 59 deleted
+1a90 history_db::compact      1492 History:  76 active, 59 deleted
+1a90 history_db::compact      1492 History:  77 active, 59 deleted
+1a90 history_db::compact      1492 History:  78 active, 59 deleted
+1a90 reset_handle              145 resetting mismatched stdout handle
+1a90 history_db::compact      1492 History:  78 active, 60 deleted
+1a90 history_db::compact      1492 History:  78 active, 61 deleted

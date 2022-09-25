@@ -1,0 +1,140 @@
+|CTAG_1664045205_87515828_14712_0
+git config --global user.name "Anas"
+git config --global user.email "am.abuothman2@gmail.com"
+git config --global init.defaultBranch main
+git config --global color.ui auto
+git config --get user.name
+git config --git user.email
+git config\ --get user.email
+|lear
+git config --get user.email
+ls ~/.ssh/id_ed25519.pub
+ssh-keygen -t ed25519 -C am.abuothman2@gmail.com
+|at ~/.ssh/id_ed25519.pub
+|sh -T git@github.com
+|sh -T git@github.com
+sudo su
+|lear
+|sh -T git@github.com
+su
+|sh -vT git@github.com
+ssh -T GITHUB-USERNAME@github.com
+|sh -T git@github.com
+|tart the ssh-agent in the background
+start the ssh-agent in the background
+eval "$(ssh-agent -s)"
+ssh-add -l -E sha256
+ssh -vT git@github.com
+ssh-agent -s
+|lear
+cat ~/.ssh/id_ed25519.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK1oPENeuJvznVEZHWZgbuEFx57Z8EYb78R97sfbFObb am.abuothman2@gmail.comssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK1oPENeuJvznVEZHWZgbuEFx57Z8EYb78R97sfbFObb am.abuothman2@gmail.com
+ssh -T git@github.com
+git --version 
+|s
+|d ..
+|s
+cd Users\
+|s
+cd Anas\
+|s
+cd Documents\
+|s
+cd "Elzero Project\
+|s
+mkdir CSS
+|s
+cd CSS\
+mkdir repos
+git clone git@github.com:Anasdin/elzero_css.git
+git remote -v\
+cd 
+|s
+cd elzero_css\
+|s
+git remote -v
+touch touch_test.txt
+|s
+|lear
+|it status 
+|it add touch_test.txt\
+|it status 
+git add touch_test.txt\
+|it status 
+git commit -m
+git commit -m "Test of adding"
+|lear
+|it status 
+git add touch_test.txt
+|it status 
+git commit -m "Just a test"
+|it status 
+git log 
+|ode .
+|lear
+git push
+|it status 
+git config --global core.editor "code --wait"
+|it commit
+|s
+code .
+|it status 
+git add README.md\
+|it commit
+git add README.md
+|it commit
+git push origin main 
+|it log
+|s
+cd
+|d ..
+|s
+cd C:\Users\Anas\Documents\Elzero Project\CSS\elzero_css
+|s
+|lear
+|s
+cd cs
+cd css
+|wd
+|wd
+|s
+cd..
+|s
+|lear
+mkdir assets
+cd assets\
+mkdir css
+touch master.css
+pwd
+|s
+|d ..
+|s
+clear
+|s
+cd ..
+ls
+mkdir source
+cd source\
+touch main.css
+|it status 
+|it status 
+|it add *
+|it status 
+git add *
+git commit
+|it status 
+|it add
+git add style.css
+git add ../css/style.css
+git add ..\index.html
+git add ..\assets\
+git add ./
+|it status 
+git add .\
+git push oringin main
+git add
+git add .
+git add /
+git push origin main
+git log
+git status 

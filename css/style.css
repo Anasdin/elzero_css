@@ -1,11 +1,27 @@
-/*selector
-{
-property: Value; The semi-colon for end the property and move to the next.
-}
-*/
+div{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-family: sans-serif;
 
-/* Target all paragraph */
-P {
-    color: green;
-    
 }
+.assign-1-shape-2{
+    background-color: rgb(138, 43, 226, 30%);
+}
+
+
+.assign-1-shape-3{
+    background-color: rgb(138, 43, 226, 10%);
+}
+
+.assign-1-shape-1{
+    background-color: #8a2be2;
+    background-color: rgb(138, 43, 226, 50%);
+    background-color: hsl(271, 76%, 53%);
+    background-color: blueviolet;
+
+}
+

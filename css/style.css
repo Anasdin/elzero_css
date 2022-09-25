@@ -1,0 +1,11 @@
+/*selector
+{
+property: Value; The semi-colon for end the property and move to the next.
+}
+*/
+
+/* Target all paragraph */
+P {
+    color: green;
+    
+}
